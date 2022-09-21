@@ -1,4 +1,4 @@
-## Oiii sou o Jonathan Cirqueira, criador de conteúdo de programação e tecnologia!
+## Olá sou o Jonathan Cirqueira, criador de conteúdo de programação e tecnologia!
 Lute pelos seus sonhos, supere os obstáculos, busque conhecimento e caminhe até  sua vitória.
 <div align="center">
   <a href="https://github.com/JonathanCirqueira">
